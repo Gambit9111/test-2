@@ -6,7 +6,6 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/39059108?v=4'
 slug: 'ai-for-social-good-bridging-the-educational-gap'
 description: ''
-coverImage: ''
 publishedAt: '2024-02-13T12:45:14.216Z'
 ---
 
