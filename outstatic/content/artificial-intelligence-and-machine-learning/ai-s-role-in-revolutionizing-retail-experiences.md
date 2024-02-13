@@ -6,6 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/39059108?v=4'
 slug: 'ai-s-role-in-revolutionizing-retail-experiences'
 description: ''
+coverImage: 'https://s2.qwant.com/thumbr/0x380/4/d/470f73027e6aeb59f9399fcaff3c27bdbf04b5d4f752d66b335ce4c7b058a3/random-pictures-1.jpg?u=http%3A%2F%2Fwww.dumpaday.com%2Fwp-content%2Fuploads%2F2016%2F02%2Frandom-pictures-1.jpg&q=0&b=1&p=0&a=0'
 publishedAt: '2024-02-13T12:42:30.345Z'
 ---
 
