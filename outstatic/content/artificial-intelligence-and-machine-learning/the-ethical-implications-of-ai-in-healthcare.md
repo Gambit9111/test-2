@@ -6,7 +6,6 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/39059108?v=4'
 slug: 'the-ethical-implications-of-ai-in-healthcare'
 description: ''
-coverImage: ''
 publishedAt: '2024-02-13T12:38:04.353Z'
 ---
 
