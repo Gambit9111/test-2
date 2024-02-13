@@ -1,0 +1,222 @@
+{
+  "commit": "2d303ae74047d3f3f09eb14e823cbf7281530fb7",
+  "generated": "Tue, 13 Feb 2024 15:45:32 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "4f48b2adcd52ff7e45e9d313c2d8b49871c7523b",
+        "hash": "660712095",
+        "path": "outstatic/content/artificial-intelligence-and-machine-learning/ai-for-social-good-bridging-the-educational-gap.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "artificial-intelligence-and-machine-learning",
+      "coverImage": "https://s1.qwant.com/thumbr/0x380/a/4/7af167fc87215158794f8090ad0e2c668b56920dfb37459cbf0124e69bc462/pictures-10-2.jpg?u=http%3A%2F%2Fwww.dumpaday.com%2Fwp-content%2Fuploads%2F2019%2F12%2Fpictures-10-2.jpg&q=0&b=1&p=0&a=0",
+      "description": "",
+      "publishedAt": "2024-02-13T12:45:14.216Z",
+      "slug": "ai-for-social-good-bridging-the-educational-gap",
+      "status": "published",
+      "title": "AI for Social Good: Bridging the Educational Gap"
+    },
+    {
+      "__outstatic": {
+        "commit": "169060228595201a3b16e15291621f182895aed2",
+        "hash": "447630834",
+        "path": "outstatic/content/artificial-intelligence-and-machine-learning/ai-s-role-in-revolutionizing-retail-experiences.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "artificial-intelligence-and-machine-learning",
+      "coverImage": "https://s2.qwant.com/thumbr/0x380/4/d/470f73027e6aeb59f9399fcaff3c27bdbf04b5d4f752d66b335ce4c7b058a3/random-pictures-1.jpg?u=http%3A%2F%2Fwww.dumpaday.com%2Fwp-content%2Fuploads%2F2016%2F02%2Frandom-pictures-1.jpg&q=0&b=1&p=0&a=0",
+      "description": "",
+      "publishedAt": "2024-02-13T12:42:30.345Z",
+      "slug": "ai-s-role-in-revolutionizing-retail-experiences",
+      "status": "published",
+      "title": "AI's Role in Revolutionizing Retail Experiences"
+    },
+    {
+      "__outstatic": {
+        "commit": "2c941328787aaefba67d7364e3d80147b237ec46",
+        "hash": "1667584945",
+        "path": "outstatic/content/emerging-technologies-in-sustainability-and-environment/eco-friendly-tech-innovations-in-waste-management.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "emerging-technologies-in-sustainability-and-environment",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-13T12:48:38.450Z",
+      "slug": "eco-friendly-tech-innovations-in-waste-management",
+      "status": "published",
+      "title": "Eco-Friendly Tech: Innovations in Waste Management"
+    },
+    {
+      "__outstatic": {
+        "commit": "115e9b059c2b6cd5a97d302ff6972ed238f98185",
+        "hash": "2458579426",
+        "path": "outstatic/content/cybersecurity-and-privacy-in-the-digital-age/the-importance-of-cyber-hygiene-in-personal-and-professional-life.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "cybersecurity-and-privacy-in-the-digital-age",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-13T14:30:42.871Z",
+      "slug": "the-importance-of-cyber-hygiene-in-personal-and-professional-life",
+      "status": "published",
+      "title": "The Importance of Cyber Hygiene in Personal and Professional Life"
+    },
+    {
+      "__outstatic": {
+        "commit": "bef537c9e335d3fc0b895c9cabcd557cf76a9b6c",
+        "hash": "2526615056",
+        "path": "outstatic/content/cybersecurity-and-privacy-in-the-digital-age/protecting-personal-privacy-in-a-data-driven-world.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "cybersecurity-and-privacy-in-the-digital-age",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-13T14:29:45.860Z",
+      "slug": "protecting-personal-privacy-in-a-data-driven-world",
+      "status": "published",
+      "title": "Protecting Personal Privacy in a Data-Driven World"
+    },
+    {
+      "__outstatic": {
+        "commit": "159e8c35433bca680f6d1464bc48186f55bdc3ee",
+        "hash": "167150675",
+        "path": "outstatic/content/cybersecurity-and-privacy-in-the-digital-age/the-evolving-threat-landscape-in-cybersecurity.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "cybersecurity-and-privacy-in-the-digital-age",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-13T14:28:58.203Z",
+      "slug": "the-evolving-threat-landscape-in-cybersecurity",
+      "status": "published",
+      "title": "The Evolving Threat Landscape in Cybersecurity"
+    },
+    {
+      "__outstatic": {
+        "commit": "1e4f186f726dd5c66cfe5ffb1ad233914eb3941f",
+        "hash": "2596256035",
+        "path": "outstatic/content/artificial-intelligence-and-machine-learning/the-ethical-implications-of-ai-in-healthcare.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "artificial-intelligence-and-machine-learning",
+      "coverImage": "https://s1.qwant.com/thumbr/0x380/1/2/c3196305580ce85f2b501a395fa06673ce0388b78e372fae0ac147439b82e2/random-pictures-132.jpg?u=http%3A%2F%2Fwww.dumpaday.com%2Fwp-content%2Fuploads%2F2014%2F02%2Frandom-pictures-132.jpg&q=0&b=1&p=0&a=0",
+      "description": "",
+      "publishedAt": "2024-02-13T12:38:04.353Z",
+      "slug": "the-ethical-implications-of-ai-in-healthcare",
+      "status": "published",
+      "title": "The Ethical Implications of AI in Healthcare"
+    },
+    {
+      "__outstatic": {
+        "commit": "c28f4a53b5a9a590248c6f146435d3a3b85cf502",
+        "hash": "2542853919",
+        "path": "outstatic/content/the-future-of-connectivity-5g-iot-and-smart-cities/digital-healthcare-how-iot-is-transforming-patient-care.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "the-future-of-connectivity-5g-iot-and-smart-cities",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-13T12:53:05.117Z",
+      "slug": "digital-healthcare-how-iot-is-transforming-patient-care",
+      "status": "published",
+      "title": "Digital Healthcare: How IoT is Transforming Patient Care"
+    },
+    {
+      "__outstatic": {
+        "commit": "492e3e8fa0abda4a86e5214451ef75ed6b9013e8",
+        "hash": "3476261131",
+        "path": "outstatic/content/the-future-of-connectivity-5g-iot-and-smart-cities/smart-cities-the-intersection-of-connectivity-and-urban-living.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "the-future-of-connectivity-5g-iot-and-smart-cities",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-13T12:52:24.303Z",
+      "slug": "smart-cities-the-intersection-of-connectivity-and-urban-living",
+      "status": "published",
+      "title": "Smart Cities: The Intersection of Connectivity and Urban Living"
+    },
+    {
+      "__outstatic": {
+        "commit": "dfd57469d4365cc214e4cf357ab5d71f68aa2525",
+        "hash": "2644978074",
+        "path": "outstatic/content/the-future-of-connectivity-5g-iot-and-smart-cities/5g-and-its-impact-on-remote-work-and-collaboration.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "the-future-of-connectivity-5g-iot-and-smart-cities",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-13T12:53:53.057Z",
+      "slug": "5g-and-its-impact-on-remote-work-and-collaboration",
+      "status": "published",
+      "title": "5G and Its Impact on Remote Work and Collaboration"
+    },
+    {
+      "__outstatic": {
+        "commit": "cf754146ee23dd7b6390915c0464049977a24a68",
+        "hash": "3991351147",
+        "path": "outstatic/content/emerging-technologies-in-sustainability-and-environment/the-rise-of-electric-vehicles-a-sustainable-transport-revolution.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "emerging-technologies-in-sustainability-and-environment",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-13T12:50:00.284Z",
+      "slug": "the-rise-of-electric-vehicles-a-sustainable-transport-revolution",
+      "status": "published",
+      "title": "The Rise of Electric Vehicles: A Sustainable Transport Revolution"
+    },
+    {
+      "__outstatic": {
+        "commit": "2e702bb82916f7d28fe6b63c1c4de0f33ecac9b3",
+        "hash": "1660495246",
+        "path": "outstatic/content/emerging-technologies-in-sustainability-and-environment/the-green-revolution-how-tech-is-transforming-renewable-energy.md"
+      },
+      "author": {
+        "name": "Heyn",
+        "picture": "https://avatars.githubusercontent.com/u/39059108?v=4"
+      },
+      "collection": "emerging-technologies-in-sustainability-and-environment",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-13T12:47:09.339Z",
+      "slug": "the-green-revolution-how-tech-is-transforming-renewable-energy",
+      "status": "published",
+      "title": "The Green Revolution: How Tech is Transforming Renewable Energy"
+    }
+  ]
+}
