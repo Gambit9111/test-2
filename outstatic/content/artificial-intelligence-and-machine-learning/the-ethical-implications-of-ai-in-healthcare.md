@@ -6,6 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/39059108?v=4'
 slug: 'the-ethical-implications-of-ai-in-healthcare'
 description: ''
+coverImage: 'https://s1.qwant.com/thumbr/0x380/1/2/c3196305580ce85f2b501a395fa06673ce0388b78e372fae0ac147439b82e2/random-pictures-132.jpg?u=http%3A%2F%2Fwww.dumpaday.com%2Fwp-content%2Fuploads%2F2014%2F02%2Frandom-pictures-132.jpg&q=0&b=1&p=0&a=0'
 publishedAt: '2024-02-13T12:38:04.353Z'
 ---
 
