@@ -6,6 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/39059108?v=4'
 slug: 'ai-for-social-good-bridging-the-educational-gap'
 description: ''
+coverImage: 'https://s1.qwant.com/thumbr/0x380/a/4/7af167fc87215158794f8090ad0e2c668b56920dfb37459cbf0124e69bc462/pictures-10-2.jpg?u=http%3A%2F%2Fwww.dumpaday.com%2Fwp-content%2Fuploads%2F2019%2F12%2Fpictures-10-2.jpg&q=0&b=1&p=0&a=0'
 publishedAt: '2024-02-13T12:45:14.216Z'
 ---
 
